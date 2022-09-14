@@ -1,0 +1,6 @@
+C:\Users\Samu\Desktop\Archivos\Certificación Programacion\Lenguaje Orientado a OBJ\EjercicioOpenBootcamp\LogicaEjercicio\bin\Debug\LogicaEjercicio.dll
+C:\Users\Samu\Desktop\Archivos\Certificación Programacion\Lenguaje Orientado a OBJ\EjercicioOpenBootcamp\LogicaEjercicio\bin\Debug\LogicaEjercicio.pdb
+C:\Users\Samu\Desktop\Archivos\Certificación Programacion\Lenguaje Orientado a OBJ\EjercicioOpenBootcamp\LogicaEjercicio\obj\Debug\LogicaEjercicio.csproj.AssemblyReference.cache
+C:\Users\Samu\Desktop\Archivos\Certificación Programacion\Lenguaje Orientado a OBJ\EjercicioOpenBootcamp\LogicaEjercicio\obj\Debug\LogicaEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\Samu\Desktop\Archivos\Certificación Programacion\Lenguaje Orientado a OBJ\EjercicioOpenBootcamp\LogicaEjercicio\obj\Debug\LogicaEjercicio.dll
+C:\Users\Samu\Desktop\Archivos\Certificación Programacion\Lenguaje Orientado a OBJ\EjercicioOpenBootcamp\LogicaEjercicio\obj\Debug\LogicaEjercicio.pdb
